@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://resume.io/r/Z3x2jQvPS](https://resume.io/r/Z3x2jQvPS)
 
-- ⚡ Fun fact **Done a lot of Case Study competitions, Product Management Bootcamp@IITG**
+- ⚡ Fun fact: **Done a lot of Case Study competitions, Product Management Bootcamp@IITG**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
