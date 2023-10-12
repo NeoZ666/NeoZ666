@@ -1,4 +1,4 @@
-[README.md](https://github.com/NeoZ666/NeoZ666/files/12883931/README.md)<h1 align="center">Hi 👋, I'm Harsh Jain</h1>
+<h1 align="center">Hi 👋, I'm Harsh Jain</h1>
 <h3 align="center">Looking to make an impact in AI, Data and Finance, Blockchain</h3>
 
 <!--
