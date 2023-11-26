@@ -6,13 +6,13 @@
 -->
 - 🔭 I’m currently working on **Recession Prediction Modeling**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust, Nextjs**
 
 - 👯 I’m looking to collaborate on **AI and Data Projects, Blockchain and Open Source**
 
 - 🤝 I’m looking for help with **Anything Tech + Finance, Economics**
 
-- 💬 Ask me about **GenAI, DA, Stats**
+- 💬 Ask me about **Blockchain, GenAI, DA**
 
 - 📫 How to reach me **harshsinyal420@gmail.com**
 
