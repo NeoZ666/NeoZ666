@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harsh Jain</h1>
-<h3 align="center">Looking to make an impact in AI, Data and Finance, Blockchain</h3>
+<h3 align="center">Looking to make an impact in Blockchain, AI, Data and Finance</h3>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neoz666" alt="neoz666" /></a> </p>
 -->
-- 🔭 I’m currently working on **Recession Prediction Modeling**
+- 🔭 I’m currently working on **Sollertia**
 
-- 🌱 I’m currently learning **Rust, Nextjs**
+- 🌱 I’m currently learning **L2 Chains**
 
 - 👯 I’m looking to collaborate on **AI and Data Projects, Blockchain and Open Source**
 
