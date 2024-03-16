@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **harshsinyal420@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/Z3x2jQvPS](https://resume.io/r/Z3x2jQvPS)
+- 📄 Know about my experiences : [Resume]([https://resume.io/r/Z3x2jQvPS](https://docs.google.com/document/d/e/2PACX-1vS3n-Ef0iBp1BEYbgIAK97O3ZIP706g7ekvP6QkpCquVzKAV1Z5o6gAR2JQ7EKNHgSjSSuIfTLCmnyQ/pub))
 
 - ⚡ Fun fact: **Done a lot of Case Study competitions, Product Management Bootcamp@IITG**
 
