@@ -4,9 +4,9 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neoz666" alt="neoz666" /></a> </p>
 -->
-- 🔭 I’m currently working on **Sollertia**
+- 🔭 I’m currently working on **Musichain**
 
-- 🌱 I’m currently learning **L2 Chains**
+- 🌱 I’m currently learning **Hyperledger**
 
 - 👯 I’m looking to collaborate on **AI and Data Projects, Blockchain and Open Source**
 
