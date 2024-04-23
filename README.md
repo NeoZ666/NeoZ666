@@ -34,7 +34,7 @@
      <a href="https://gitroll.io/profile/uCu0yzQbC7eQXYQPfA7cwjZtOPEi1" target="_blank" style="display: inline-block;">
         <img align="left" src="https://gitroll.io/api/badges/profiles/v1/uCu0yzQbC7eQXYQPfA7cwjZtOPEi1" alt="GitRoll Profile Badge" style="width: 300px;">
     </a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neoz666&" alt="neoz666" style="width: 450px; margin-right: 20px; display: inline-block;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neoz666&" alt="neoz666" style="width: 500px; margin-right: 25px; display: inline-block;">
 </div>
 
 
