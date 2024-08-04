@@ -4,7 +4,6 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neoz666" alt="neoz666" /></a> </p>
 -->
-- 🔭 I’m currently working on **myself**
 
 - 🌱 I’m currently learning **Hyperledger**
 
