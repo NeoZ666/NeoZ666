@@ -78,19 +78,19 @@
 <br>
 <div width="100%" align="spaced-even">
   <a align="left" href="https://github.com/citadel-tech/coinswap" title="CoinSwap">
-    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=citadel-tech&repo=coinswap&theme=react&border_color=61dafb&border_radius=10">
+    <img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=citadel-tech&repo=coinswap&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a align="right" href="https://github.com/hyperledger-labs/learning-tokens" title="Learning Tokens">
-    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=learning-tokens&theme=react&border_color=61dafb&border_radius=10">
+    <img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=hyperledger-labs&repo=learning-tokens&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Bitshala-Incubator/rust-coinselect" title="Rust CoinSelect">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Bitshala-Incubator&repo=rust-coinselect&theme=react&border_color=61dafb&border_radius=10">
+    <img align="left" height="110" src="https://github-readme-stats.vercel.app/api/pin/?username=Bitshala-Incubator&repo=rust-coinselect&theme=react&border_color=61dafb&border_radius=10">
   </a>
   <a align="right" href="https://github.com/NeoZ666/Deep-Learning-Foundational-Projects" title="Deep Learning Foundational Projects">
-    <img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoZ666&repo=Deep-Learning-Foundational-Projects&theme=react&border_color=61dafb&border_radius=10">
+    <img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=NeoZ666&repo=Deep-Learning-Foundational-Projects&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
