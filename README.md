@@ -27,9 +27,10 @@
 <br>
 <p align="center">
   <code><img title="Rust" height="25" src="images/rust-svgrepo-com.svg"></code>
+  <code><img title="Solidity" height="25" src="images/solidity.svg"></code>
   <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+<!--   <code><img title="C++" height="25" src="images/cpp.svg"></code> -->
+<!--   <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -43,7 +44,7 @@
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
+<!--   <code><img title="JSON" height="25" src="images/json.svg"></code> -->
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
