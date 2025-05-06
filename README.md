@@ -4,10 +4,10 @@
   </a>
 </h1>
 
-⏳ Year progress { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 34.27 %
+⏳ Year progress { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 34.32 %
 ---
 
-⏰ Updated on Tue, 06 May 2025 02:02:42 GMT
+⏰ Updated on Tue, 06 May 2025 06:35:23 GMT
 
 ![Progress Bar CI](https://github.com/NeoZ666/NeoZ666//workflows/Progress%20Bar%20CI/badge.svg)
 
@@ -22,7 +22,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/NeoZ666/NeoZ666/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: neoz.bitcoin+public_github@proton.me">MAILTO</a>
+  📫 How to reach me: <a href="mailto: neoz.bitcoin@proton.me">neoz.bitcoin@proton.me</a>
 </p>
 
 <hr>
