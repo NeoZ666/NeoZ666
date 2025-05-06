@@ -22,7 +22,7 @@
   <br>
   💬 Ask me anything about from <a href="https://github.com/NeoZ666/NeoZ666/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: neoz.bitcoin@proton.me">neoz.bitcoin@proton.me</a>
+  📫 How to reach me: <a href="mailto: neoz.bitcoin+public_github@proton.me">MAILTO</a>
 </p>
 
 <hr>
