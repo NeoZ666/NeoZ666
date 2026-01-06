@@ -36,6 +36,38 @@ jobs:
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate CoinSwap pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=citadel-tech&repo=coinswap
+          path: profile/pin-citadel-tech-coinswap.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Learning Tokens pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=hyperledger-labs&repo=learning-tokens
+          path: profile/pin-hyperledger-labs-learning-tokens.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Rust CoinSelect pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=Bitshala-Incubator&repo=rust-coinselect
+          path: profile/pin-bitshala-incubator-rust-coinselect.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Deep Learning pin card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=NeoZ666&repo=Deep-Learning-Foundational-Projects
+          path: profile/pin-neoz666-deep-learning-foundational-projects.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
