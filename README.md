@@ -63,14 +63,3 @@
 <hr>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=neoz666&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-
-<p align="center">
-  <img align="center" height="125" src="./profile/pin-citadel-tech-coinswap.svg" alt="CoinSwap" />
-  <img align="center" height="125" src="./profile/pin-hyperledger-labs-learning-tokens.svg" alt="Learning Tokens" />
-  <br/><br/>
-  <img align="center" height="110" src="./profile/pin-bitshala-incubator-rust-coinselect.svg" alt="Rust CoinSelect" />
-  <img align="center" height="125" src="./profile/pin-neoz666-deep-learning-foundational-projects.svg" alt="Deep Learning Foundational Projects" />
-</p>
