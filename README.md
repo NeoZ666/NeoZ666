@@ -59,6 +59,6 @@
     <img align="center" width="390" src="https://streak-stats.demolab.com/?user=neoz666&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
     <img align="center" width="390" src="./profile/stats.svg" alt="GitHub Stats" />
   </div>
-  <br><br><br><br><br><br>
+  <br><br><br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=neoz666&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
