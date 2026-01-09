@@ -57,7 +57,7 @@
 
 <p align="center">
   <div align="center">
-    <img align="center" width="420" src="https://streak-stats.demolab.com/?user=neoz666&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
+    <!-- <img align="center" width="420" src="https://streak-stats.demolab.com/?user=neoz666&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" /> -->
     <img align="center" width="400" src="./profile/stats.svg" alt="GitHub Stats" />
   </div>
   <br><br>
