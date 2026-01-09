@@ -14,7 +14,6 @@ function generateProgressBar(progress) {
 }
 
 const readme = `\
-###
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&center=true&vCenter=true&width=435&lines=N30+CY83rPUNK;7H1NK3r+%7C+Wr173r+%7C+8U11D3r>" alt="Typing SVG" /></a>
 </h1>
@@ -73,7 +72,7 @@ const readme = `\
 
 <p align="center">
   <div align="center">
-    <img align="center" width="420" src="https://streak-stats.demolab.com/?user=neoz666&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
+    // <img align="center" width="420" src="https://streak-stats.demolab.com/?user=neoz666&theme=react&border=61dafb&hide_border=true" alt="GitHub Streak" />
     <img align="center" width="400" src="./profile/stats.svg" alt="GitHub Stats" />
   </div>
   <br><br>
